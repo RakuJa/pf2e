@@ -55,9 +55,7 @@
         "rules": [],
         "runes": {
             "potency": 1,
-            "property": {
-                "0": ""
-            },
+            "property": [],
             "striking": 0
         },
         "size": "med",
